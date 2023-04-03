@@ -1,0 +1,3 @@
+[submodule "alquimia"]
+	path = alquimia
+	url = git@github.com:enrique-mp/alquimia.git
